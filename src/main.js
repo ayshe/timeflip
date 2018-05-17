@@ -1,0 +1,1 @@
+console.log('Main front-end script');
