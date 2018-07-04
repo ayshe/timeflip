@@ -12,10 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "noble": "^1.9.1",
+    "async": "^2.6.0",
     "babel-core": "^6.26.0",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
+    "noble": "^1.9.1",
     "npm-run-all": "^4.1.2"
   },
   "devDependencies": {
